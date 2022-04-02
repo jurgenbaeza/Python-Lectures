@@ -1,6 +1,3 @@
-from doctest import OutputChecker
-from re import M
-
 lessonNumber = 4
 print(lessonNumber)
 lessonNumber = 5
