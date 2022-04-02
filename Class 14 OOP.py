@@ -1,6 +1,3 @@
-from urllib.request import CacheFTPHandler
-
-
 class Character:
     def __init__(self, name, hair, eyes): #self is only in function not for the class in player1 
         self.name = name
