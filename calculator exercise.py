@@ -1,6 +1,3 @@
-from tkinter import N
-
-
 def addNumbers(numbers):
     total = 0
 
