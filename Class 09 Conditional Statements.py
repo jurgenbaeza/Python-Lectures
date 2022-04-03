@@ -7,7 +7,7 @@ def weatherProgram(weather, rating):
             print("Sad")
     elif weather == "sunny" and rating > 2:
         print("sunny")
-    elif weather == "sunny" or rating > 2:
+    elif weather == "sunny" or rating == 1:
         print("Sunny but sad")
     else:
         print("Stay indoors")
